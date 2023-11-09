@@ -28,10 +28,13 @@ Esse projeto serve como base para a aula de Stored Proceudre do dia
 
 ## Stack utilizada
 
-**Front-end:** ![HTML](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png)  
+**Front-end:**  
+![HTML](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-**Back-end:** ![PHP](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/php-icon.png)  
-**Banco de Dados**![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+**Back-end:**  
+![PHP](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/php-icon.png)  
+**Banco de Dados**  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 
 
 **Sites Utilizados para Markdown**  
